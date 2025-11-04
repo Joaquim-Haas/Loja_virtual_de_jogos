@@ -6,7 +6,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         Random random = new Random();
         Loja loja = new Loja();
-        int escolha, idJogo, tentativaAdmin = 0;
+        int escolha, tentativaAdmin = 0;
         String senhaAdmin = "KLOJ#BFAJC-@";
 
         System.out.println("Crie um Usuario! ");
