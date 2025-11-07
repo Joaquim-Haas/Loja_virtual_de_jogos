@@ -1,7 +1,25 @@
-# Loja virtual de Jogos via console 
+# Loja Virtual de Jogos
 
-### - Loja chamada Vapor, referência ao nome Steam.
-### - Loja de jogos simples com sistema de adicionar Jogos, se o usuário for administrador.
+Uma loja virtual de jogos via console inspirada na Steam, desenvolvida em Java.
+
+## Funcionalidades
+
+- **Carrinho de compras**
+- **Sistema Admin**
+- **Controle de saldo**
+- **Biblioteca pessoal**
+
+## Foi usado
+- **Java 21**
+- **ArrayList, HashMap**
+- **POO**
+- **Exception Treatment**
 
 ## Como executar
-### apenas execute o Main.java.
+
+```bash
+# Clone o repositório
+git clone https://github.com/Joaquim-Haas/Loja_virtual_de_jogos.git
+
+# Execute o projeto
+java Main.java
