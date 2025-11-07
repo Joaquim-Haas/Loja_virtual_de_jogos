@@ -11,6 +11,10 @@ public class Loja {
         this.buscaJogo = new HashMap<>();
     }
 
+    public Jogo buscarJogoPorID(int id){
+        return buscaJogo.get(id);
+    }
+
     public void adicionarJogo(Jogo jogo){
         if(buscaJogo.containsKey(jogo.getId())){
             System.out.println("Esse ID já existe, crie novamente o jogo!");

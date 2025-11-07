@@ -20,10 +20,12 @@ public class Jogo {
     }
 
     public int getId(){
+
         return id;
     }
 
     public double getValor(){
+
         return valor;
     }
 }
