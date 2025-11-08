@@ -15,6 +15,9 @@ Uma loja virtual de jogos via console inspirada na Steam, desenvolvida em Java.
 - **POO**
 - **Exception Treatment**
 
+## Baixe a pasta do código
+[️ Download (ZIP)](https://github.com/Joaquim-Haas/Loja_virtual_de_jogos/archive/refs/heads/main.zip)
+
 ## Como executar 
 ```bash
 git clone https://github.com/Joaquim-Haas/Loja_virtual_de_jogos.git
